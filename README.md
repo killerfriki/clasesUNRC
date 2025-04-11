@@ -61,3 +61,9 @@ The available configurations are:
 * /etc/hadoop/mapred-site.xml  MAPRED_CONF
 
 If you need to extend some other configuration file, refer to base/entrypoint.sh bash script.
+
+## Ejemplo de un MapReduce de WordCount
+
+Se hace un ejemplo de una MapReduce con el archivo de texto evangelio_segun_marcos
+
+
