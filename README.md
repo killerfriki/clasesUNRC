@@ -64,6 +64,11 @@ If you need to extend some other configuration file, refer to base/entrypoint.sh
 
 ## Ejemplo de un MapReduce de WordCount
 
-Se hace un ejemplo de una MapReduce con el archivo de texto evangelio_segun_marcos
+Se hace un ejemplo de MapReduce con el archivo de texto evangelio_segun_marcos
+
+## Ejemplo de un MapReduce ordenando datos
+
+Se hace un ejemplo de MapReduce con el archivo de texto temperaturas para ordenarlo
+
 
 
